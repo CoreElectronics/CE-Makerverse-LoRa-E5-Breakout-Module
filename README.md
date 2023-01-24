@@ -1,21 +1,6 @@
-<!-- TODO How to use this template
-Follow these commented instructions to build the repo.
-Delete the instructions as you go, to keep for a cleaner final file.
- -->
+# Makerverse™ LoRa-E5 Breakout
 
-<!-- TODO update title to be descriptive. Eg.
-PiicoDev® [Description] [Part#]
-PiicoDev® Precision Temperature Sensor TMP117 -->
-# PiicoDev® Template
-
-<!-- TODO update link URL with CE SKU -->
-<!-- TODO update link title -->
-<!-- TODO put image in Documents directory. Piicodev image 1500x1000 resize to 30% -> 450x300 -->
-![](Documents/showcase-render.png)
-
-This is the repo for the Core Electronics [PiicoDev XXXXXX](https://core-electronics.com.au/catalog/product/view/sku/XXXXXX).
-
-<!-- TODO populate below here from the tutorial -->
+This is the repo for the [Makerverse™ LoRa-E5 Breakout](https://core-electronics.com.au/catalog/product/view/sku/CE09196).
 
 ## License
 This project is open source - please review the LICENSE.md file for further licensing information.
@@ -23,7 +8,6 @@ This project is open source - please review the LICENSE.md file for further lice
 If you have any technical questions, or concerns about licensing, please contact technical support on the [Core Electronics forums](https://forum.core-electronics.com.au/).
 
 ## Attribution
-<!-- TODO Confirm attribution eg
-The hardware design of this module is influenced by the design from [Sparkfun](https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_CAP1203).  -->
+The hardware design of this module is influenced by the [Wio-E5 mini](https://wiki.seeedstudio.com/LoRa_E5_mini/).
 
-*\"PiicoDev\" and the PiicoDev logo are trademarks of Core Electronics Pty Ltd.*
+*\"Makerverse\" and the Makerverse logo are trademarks of Core Electronics Pty Ltd.*

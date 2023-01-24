@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "LoRa-E5")(type "Legacy")(uri "${KIPRJMOD}/LoRa-E5_kicad_Library/LoRa-E5_kicad/LoRa-E5.lib")(options "")(descr ""))
+  (lib (name "option-resistor")(type "KiCad")(uri "${KIPRJMOD}/option-resistor.kicad_sym")(options "")(descr ""))
 )
